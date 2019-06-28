@@ -1,0 +1,84 @@
+>> runTests
+Comparing Daniel Radcliff Neutral 1 to Daniel Radcliff Neutral 2
+RMSE from the registration is 1.2389
+Hausdorff distance is 4.6191
+Modified Hausdorff distance for features is 0.65642
+Calculated similarity score is 76%
+Elapsed time is 135.012372 seconds.
+ 
+Comparing Daniel Radcliff Smiling 1 to Daniel Radcliff Smiling 2
+RMSE from the registration is 1.2575
+Hausdorff distance is 5.6504
+Modified Hausdorff distance for features is 1.9169
+Calculated similarity score is 60.86%
+Elapsed time is 145.194696 seconds.
+ 
+Comparing Keanu Reeves Neutral 1 to Keanu Reeves Neutral 2
+RMSE from the registration is 1.138
+Hausdorff distance is 4.1614
+Modified Hausdorff distance for features is 2.0188
+Calculated similarity score is 68.82%
+Elapsed time is 159.368181 seconds.
+ 
+Comparing Keanu Reeves Smiling 1 to Keanu Reeves Smiling 2
+RMSE from the registration is 1.5469
+Hausdorff distance is 5.9091
+Modified Hausdorff distance for features is 1.7348
+Calculated similarity score is 59.7%
+Elapsed time is 165.914844 seconds.
+ 
+Comparing Obama Neutral 1 to Obama Neutral 2
+RMSE from the registration is 1.5614
+Hausdorff distance is 6.9856
+Modified Hausdorff distance for features is 0.8782
+Calculated similarity score is 60.01%
+Elapsed time is 165.923823 seconds.
+ 
+Comparing Obama Smiling 1 to Obama Smiling 2
+RMSE from the registration is 1.2865
+Hausdorff distance is 10.1249
+Modified Hausdorff distance for features is 1.0256
+Calculated similarity score is 42.5%
+Elapsed time is 142.743430 seconds.
+ 
+Comparing Nick Minaj Neutral 1 to Nick Minaj Neutral 2
+RMSE from the registration is 1.4301
+Hausdorff distance is 5.1882
+Modified Hausdorff distance for features is 2.4006
+Calculated similarity score is 59.21%
+Elapsed time is 160.596449 seconds.
+ 
+Comparing Nicki Minaj Smiling 1 to Nicki Minaj Smiling 2
+RMSE from the registration is 0.99881
+Hausdorff distance is 3.2476
+Modified Hausdorff distance for features is 1.5457
+Calculated similarity score is 77.92%
+Elapsed time is 145.421710 seconds.
+ 
+Comparing Rihanna Neutral 1 to Rihanna Neutral 2
+RMSE from the registration is 1.3683
+Hausdorff distance is 4.8918
+Modified Hausdorff distance for features is 0.69448
+Calculated similarity score is 73.72%
+Elapsed time is 153.724322 seconds.
+ 
+Comparing Rihanna Smiling 1 to Rihanna Smiling 2
+RMSE from the registration is 0.81772
+Hausdorff distance is 4.4633
+Modified Hausdorff distance for features is 0.60519
+Calculated similarity score is 78.8%
+Elapsed time is 144.571931 seconds.
+ 
+Comparing Elijah Wood Neutral 1 to Elijah Wood Neutral 2
+RMSE from the registration is 0.8425
+Hausdorff distance is 4.3091
+Modified Hausdorff distance for features is 0.56292
+Calculated similarity score is 79.88%
+Elapsed time is 156.477929 seconds.
+ 
+Comparing Elijah Wood Smiling 1 to Elijah Wood Smiling 2
+RMSE from the registration is 0.92353
+Hausdorff distance is 3.3293
+Modified Hausdorff distance for features is 0.51219
+Calculated similarity score is 85.4%
+Elapsed time is 166.669999 seconds.
